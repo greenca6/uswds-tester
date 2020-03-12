@@ -1,4 +1,8 @@
 $theme-font-path: '~uswds/dist/fonts';
 $theme-image-path: '~uswds/dist/img';
 
+$opacity-settings: (
+  active: true
+);
+
 @import '~uswds/dist/scss/uswds';
